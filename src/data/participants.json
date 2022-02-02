@@ -283,7 +283,12 @@
     "faculty": "Computer Science",
     "bio": "CR7 is GOAT.",
     "email": "shishirkafle44@gmail.com"
-  }
-  ]
-  
-
+  },
+ {
+  "name": "Kriti Prajapati",
+  "batch": 2017,
+  "faculty": "Computer Engineering",
+  "bio": "Student/ Ethusiast Learner",
+  "email": "kritiipraz@gmail.com"
+}
+]
